@@ -15,11 +15,10 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-test-id="pageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Johanna-Maria-Alexandra Oprisan
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              26 years old. love cats. love to travel. love food.
             </p>
 
             <Link href="/contact" className="cta">
